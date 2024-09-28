@@ -1,1 +1,6 @@
-git1 file
+<<<<<<< HEAD
+git1 
+=======
+new fea
+
+>>>>>>> re_s
